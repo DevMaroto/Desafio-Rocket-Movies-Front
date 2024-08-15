@@ -1,6 +1,10 @@
 # Front-End
 
-https://github.com/DevMaroto/Desafio-Rocket-Movies/assets/88672028/a3da312b-797d-4d67-bd0b-f7156ddc63b3
+
+
+https://github.com/user-attachments/assets/1ce6a022-609b-4cc5-8a17-f40db571df48
+
+
 
 # Como instalar:
 * npm install
